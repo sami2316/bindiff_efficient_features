@@ -1,0 +1,3 @@
+[submodule "asm2vec-pytorch"]
+	path = asm2vec-pytorch
+	url = https://github.com/sami2316/asm2vec-pytorch.git
